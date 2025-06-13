@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://huzhe3566.com/</loc>
+         <loc>https://mydomain.org/mysite/</loc>
          <lastmod>2025-06-13</lastmod>
     </url>
     <url>
-         <loc>https://huzhe3566.com/contact/</loc>
+         <loc>https://mydomain.org/mysite/contact/</loc>
          <lastmod>2025-06-13</lastmod>
     </url>
     <url>
-         <loc>https://huzhe3566.com/cv/</loc>
+         <loc>https://mydomain.org/mysite/cv/</loc>
          <lastmod>2025-06-13</lastmod>
     </url>
     <url>
-         <loc>https://huzhe3566.com/pubs/</loc>
+         <loc>https://mydomain.org/mysite/pubs/</loc>
          <lastmod>2025-06-13</lastmod>
     </url>
 </urlset>
